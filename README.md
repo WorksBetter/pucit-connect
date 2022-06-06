@@ -1,4 +1,4 @@
-###PUCIT-Connect Chat Application
+### PUCIT-Connect Chat Application
 
 Link: http://pucit-connect.herokuapp.com/
 
